@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">LaboratorioCalificado3</string>
+    <string name="profesor_nombre">Nombre del Profesor</string>
+    <string name="profesor_apellido">Apellido del Profesor</string>
+</resources>
